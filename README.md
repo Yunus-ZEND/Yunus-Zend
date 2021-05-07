@@ -1,5 +1,5 @@
 ## Hallo kamu nama saya adalah Yunus Zend
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/5527031.gif" width="802" height="96" alt="Yunus Zend" /></a>
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5527051.gif" width="802" height="96" alt="Yunus Zend" /></a>
 ![Yunus Zend Logo](https://telegra.ph/file/2e90cde2cd2196b2c2eda.jpg)
 
 #### Mengedit dan berkreativitas adalah jalan ninjaku
