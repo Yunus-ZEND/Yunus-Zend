@@ -1,5 +1,4 @@
 ## Hi kamu 👋
-
 ### Perkenalkan nama saya adalah Yunus Zend
 
 <!--
