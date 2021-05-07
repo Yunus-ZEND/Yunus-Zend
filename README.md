@@ -1,7 +1,7 @@
 ## Hy kamu 👋
 ### Perkenalkan nama saya adalah Yunus Zend
 
-![Yunus Zend Logo](https://telegra.ph/file/0a7d20bf46d47ff0438ab.jpg)
+![Yunus Zend Logo](https://telegra.ph/file/2e90cde2cd2196b2c2eda.jpg)
 
 ### Saya ada di telegram 👻
 
