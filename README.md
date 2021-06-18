@@ -1,3 +1,4 @@
+## <i>Hi There</i> 👋
 #### <i>Hey you my name is Yunus Zend</i>
 #### <i>I come from Indonesia, Editing is my ninja way. Github is one of my places to channel creativity through programs</i>
 ![Yunus Zend Logo](https://telegra.ph/file/2e90cde2cd2196b2c2eda.jpg)
@@ -10,8 +11,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunus-zend&show_icons=true&locale=en&layout=compact" alt="yunus-zend" /></p>
 
-<p align="left"> <a href="https://t.me/ZendYNS"><img src="https://img.shields.io/badge/My%20Contact%3F-click here-magenta?&style=flat-square?&logo=telegram" width=110px></a></p>
-<p align="left"> <a href="https://t.me/KingUserbotSupport"><img src="https://img.shields.io/badge/Group%20Support%3F-click here-yellow?&style=flat-square?&logo=telegram" width=120px></a></p>
+<p align="left"> <a href="https://t.me/ZendYNS"><img src="https://img.shields.io/badge/My%20Contact%3F-click here-lightgreen?&style=flat-square?&logo=telegram" width=110px></a></p>
+<p align="left"> <a href="https://t.me/KingUserbotSupport"><img src="https://img.shields.io/badge/Group%20Support%3F-click here-lightgreen?&style=flat-square?&logo=telegram" width=120px></a></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yunus-zend&" alt="yunus-zend" /></p>
 
